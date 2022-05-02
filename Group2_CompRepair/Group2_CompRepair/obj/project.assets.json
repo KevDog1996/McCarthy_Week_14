@@ -10249,11 +10249,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kevin\\Desktop\\Group2_CompRepair\\Group2_CompRepair\\Group2_CompRepair\\Group2_CompRepair.csproj",
+      "projectUniqueName": "C:\\Users\\kevin\\Documents\\GitHub\\McCarthy_Week_14\\Group2_CompRepair\\Group2_CompRepair\\Group2_CompRepair.csproj",
       "projectName": "Group2_CompRepair",
-      "projectPath": "C:\\Users\\kevin\\Desktop\\Group2_CompRepair\\Group2_CompRepair\\Group2_CompRepair\\Group2_CompRepair.csproj",
+      "projectPath": "C:\\Users\\kevin\\Documents\\GitHub\\McCarthy_Week_14\\Group2_CompRepair\\Group2_CompRepair\\Group2_CompRepair.csproj",
       "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kevin\\Desktop\\Group2_CompRepair\\Group2_CompRepair\\Group2_CompRepair\\obj\\",
+      "outputPath": "C:\\Users\\kevin\\Documents\\GitHub\\McCarthy_Week_14\\Group2_CompRepair\\Group2_CompRepair\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",

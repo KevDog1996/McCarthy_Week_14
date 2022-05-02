@@ -10,7 +10,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "25a15b6a-bfa8-4442-97d6-7ec5fb8237e0": {
+      "ProjectGuid": "25a15b6a-bfa8-4442-97d6-7ec5fb8237e0",
+      "DisplayName": "Group2_CompRepairTests",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
